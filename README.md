@@ -4,7 +4,8 @@
 
 🌱 **Currently learning C++, C#, Java, and more!**
 
-*🔗 Connect with me:  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1109103765308583960) 
+**🔗 Connect with me:  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1109103765308583960)**
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1109103765308583960)](https://discord.com/users/1109103765308583960)  
 
