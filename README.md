@@ -4,7 +4,7 @@
 
 🌱 **Currently learning C++, C#, Java, and more!**
 
-*🔗 Connect with me:  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1109103765308583960) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Wh0AmlIl)*
+*🔗 Connect with me:  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1109103765308583960) 
 
 
 
