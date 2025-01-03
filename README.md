@@ -1,4 +1,4 @@
-## **ABOUT ME**
+## **ABOUT ME** <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHg0ZXNmZ3p3bWhlb3U3d3U0ZjNlcW5jeHkzN3Vnc29nYzJ5ZHhhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="48" height="36" />
 
 👨‍💻 **I’m a 16-year-old second-year vocational college student**, learning and growing every day to master the world of coding. 
 
@@ -16,11 +16,10 @@
 ---
 
 
-## **GitHub Stats**
-
-| Visitor Count | GitHub Stats |
-|---------------|--------------|
-| ![Visitor Count](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenMinh08&theme=tokyonight) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenMinh08&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight) |
+## **GitHub Stats** ![Followers](https://img.shields.io/github/followers/NguyenMinh08?style=social)
+| | |
+|-|-|
+|[![trophy](https://github-profile-trophy.vercel.app/?username=NguyenMinh08&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenMinh08&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight) |
 
 
 
